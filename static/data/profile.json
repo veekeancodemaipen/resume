@@ -83,24 +83,6 @@
 			"hide": true
 		}
 	],
-	"technologies": [
-		{
-			"section": "Languages:",
-			"details": "Ruby, JavaScript, Node.js (strong). TypeScript, SQL (proficient)."
-		},
-		{
-			"section": "Frameworks:",
-			"details": "Ruby on Rails, ReactJS, NextJS, NestJS, SvelteJS, TailwindCSS, Bootstrap"
-		},
-		{
-			"section": "Tools:",
-			"details": "Git, Terraform, Docker, Kubernetes, Helm, ArgoCD, FluxCD, Robot Framework, Selenium, Zsh, GitHub Codespaces"
-		},
-		{
-			"section": "Other:",
-			"details": "AWS, GCP, Firebase, Vercel, DigitalOcean, Cloud66, Github Actions, CircleCI, CloudFlare"
-		}
-	],
 	"workExperiences": [
 		{
 			"position": "Lead Software Engineer",
@@ -188,13 +170,13 @@
 	],
 	"educations": [
 		{
-			"head": "B.Eng. Computer Engineering",
-			"details": "Chulalongkorn University, TH. 2007-2010 (GPA 3.40)"
+			"head": "B.Eng. Electical Engineering",
+			"details": "Chulalongkorn University, TH. 2024-Current"
 		}
 	],
 	"interests": [
-		"Areas : Coding, Productivity & Life-hacks, Mechanical Keyboards",
-		"Typing : 120+ words per minute (Colemak Mod-DH layout)"
+		"Areas : xxxxxxxxxxxxxxxxxxxxxxxxxxx",
+		"Typing : yyyyyyyyyyyyyy"
 	],
 	"resumeUrl": {
 		"sourceLink": "https://github.com/narze/resume",
