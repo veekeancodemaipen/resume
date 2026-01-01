@@ -1,54 +1,56 @@
 {
-	"intro": {
-		"name": "Yossavee Adisornsuwan",
-		"nickname": "Vee",
-		"phone": "0868803485",
-		"email": "veeyossavee@gmail.com",
-		"github": "",
-		"linkedin": "",
-		"location": "Bangkok, Thailand",
-		"website": ""
-	},
-	"projects": [
-		{
-			"name": "ChatOS",
-			"details": "Hackable chatbot web application",
-			"url": "chat.narze.live",
-			"hide": false
-		}
-	],
-	"workExperiences": [
-		{
-			"position": "Head of External University Affairs",
-			"company": "Engineering Student Committee, Chulalongkorn University",
-			"url": "https://www.instagram.com/escchula?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D",
-			"years": ["JUL 2025", "APR 2026"],
-			"details": [
-				"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-				"xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-			]
-		},
-	],
-	"extra": [
-		{
-			"name": "Larngear Camp 24 and 25",
-			"position": "COOP",
-			"details": "xxxxxxxxx",
-			"hide": false
-		}
-	],
-	"educations": [
-		{
-			"head": "B.Eng. Electical Engineering",
-			"details": "Chulalongkorn University, TH. 2024-Current"
-		}
-	],
-	"interests": [
-		"Areas : xxxxxxxxxxxxxxxxxxxxxxxxxxx",
-		"Typing : yyyyyyyyyyyyyy"
-	],
-	"resumeUrl": {
-		"sourceLink": "https://github.com/narze/resume",
-		"fullVersion": "https://resume.narze.live"
-	}
+  "intro": {
+    "name": "Yossavee Adisornsuwan",
+    "nickname": "Vee",
+    "phone": "0868803485",
+    "email": "veeyossavee@gmail.com",
+    "github": "",
+    "linkedin": "",
+    "location": "Bangkok, Thailand",
+    "website": ""
+  },
+  "projects": [
+    {
+      "name": "ChatOS",
+      "details": "Hackable chatbot web application",
+      "url": "chat.narze.live",
+      "hide": false
+    }
+  ],
+  "workExperiences": [
+    {
+      "position": "Head of External University Affairs",
+      "company": "Engineering Student Committee, Chulalongkorn University",
+      "url": "https://www.instagram.com/escchula?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D",
+      "years": ["JUL 2025", "APR 2026"],
+      "details": [
+        "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx" 
+      ]
+    }
+  ],
+  "extra": [
+    {
+      "name": "Larngear Camp 24 and 25",
+      "position": "COOP",
+      "details": [
+        "xxxxxxxxx"
+      ],
+      "hide": false
+    }
+  ],
+  "educations": [
+    {
+      "head": "B.Eng. Electical Engineering",
+      "details": "Chulalongkorn University, TH. 2024-Current"
+    }
+  ],
+  "interests": [
+    "Areas : xxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "Typing : yyyyyyyyyyyyyy"
+  ],
+  "resumeUrl": {
+    "sourceLink": "https://github.com/narze/resume",
+    "fullVersion": "https://resume.narze.live"
+  }
 }
