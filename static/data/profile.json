@@ -11,8 +11,9 @@
   },
   "projects": [
     {
-      "name": "ChatOS",
-      "details": "Hackable chatbot web application",
+      "name": "WHATTHEFUCK",
+      "details": 
+      "Hackable chatbot web application",
       "url": "chat.narze.live",
       "hide": false
     }
@@ -31,15 +32,13 @@
   ],
   "Extracurriculars": [
     {
-      "name": "Modchomphu Hackathon 2025",
-      "position": "President",
+      "position": "Modchomphu Hackathon 2025, President",
       "details": [
         "xxxxxxxxx"
       ]
     },
     {
-      "name": "Larngear Camp 24 and 25",
-      "position": "COOP",
+      "position": "Larngear Camp 24 and 25, COOP",
       "details": [
         "xxxxxxxxx"
       ]
