@@ -50,7 +50,7 @@
 <main class="text-center p-4 m-0 md:m-8 xl:mx-auto max-w-screen-xl">
 	<Intro {...intro} />
 
-	<section>
+	'''<section>
 		<Hideable>
 			<h2 class="text-2xl print:text-4xl uppercase text-left">Technologies and Languages</h2>
 			<hr />
@@ -65,7 +65,7 @@
 				{/each}
 			</ul>
 		</Hideable>
-	</section>
+	</section>'''
 
 	<section>
 		<Hideable>
@@ -103,12 +103,35 @@
 			<ul class="text-left list-disc pl-8">
 				{#each projects as project}
 					<Hideable hide={project.hide}>
-						<li>
-							<strong>{project.name}</strong>
-							- {project.details}
-							<a href="https://{project.url}" target="_blank" rel="noreferrer"
-								><strong>{project.url}</strong></a
-							>
+						<li class="mb-2">
+							<div class="font-bold">
+								<span>{project.name}</span>
+								
+								{#if project.techStack}
+									<span> | {project.techStack}</span>
+								{/if}
+
+								{#if project.url}
+									<a 
+										href={project.url} 
+										target="_blank" 
+										rel="noreferrer" 
+										class="font-normal underline ml-1 text-sm"
+									>
+										({project.url})
+									</a>
+								{/if}
+							</div>
+
+							{#if project.details && Array.isArray(project.details)}
+								<ul class="list-[circle] pl-4 font-normal">
+									{#each project.details as detail}
+										<li>{detail}</li>
+									{/each}
+								</ul>
+							{:else}
+								<p>{project.details}</p>
+							{/if}
 						</li>
 					</Hideable>
 				{/each}
