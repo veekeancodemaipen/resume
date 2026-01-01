@@ -50,7 +50,7 @@
 <main class="text-center p-4 m-0 md:m-8 xl:mx-auto max-w-screen-xl">
 	<Intro {...intro} />
 
-	"<section>
+	<section>
 		<Hideable>
 			<h2 class="text-2xl print:text-4xl uppercase text-left">Technologies and Languages</h2>
 			<hr />
@@ -65,7 +65,7 @@
 				{/each}
 			</ul>
 		</Hideable>
-	</section>"
+	</section>
 
 	<section>
 		<Hideable>
@@ -144,14 +144,15 @@
 			<h2 class="text-2xl print:text-4xl uppercase text-left">EXTRACURRICULARS</h2>
 			<hr />
 
-			<ul class="text-left list-disc pl-8">
-				{#each Extracurriculars as extra} <Hideable>
-						<li>
-							<strong>{extra.position}</strong>
+			<ul class="text-left list-none pl-0">
+				{#each extra as item} <Hideable>
+						<li class="mb-2"> <div class="font-bold text-lg">
+								{item.position}
+							</div>
 							
-							{#if extra.details && extra.details.length > 0}
-								<ul class="list-[circle] pl-4">
-									{#each extra.details as detail}
+							{#if item.details && item.details.length > 0}
+								<ul class="list-disc pl-6 font-normal">
+									{#each item.details as detail}
 										<li>{detail}</li>
 									{/each}
 								</ul>
