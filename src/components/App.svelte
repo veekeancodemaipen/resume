@@ -50,7 +50,7 @@
 <main class="text-center p-4 m-0 md:m-8 xl:mx-auto max-w-screen-xl">
 	<Intro {...intro} />
 
-	'''<section>
+	"<section>
 		<Hideable>
 			<h2 class="text-2xl print:text-4xl uppercase text-left">Technologies and Languages</h2>
 			<hr />
@@ -65,7 +65,7 @@
 				{/each}
 			</ul>
 		</Hideable>
-	</section>'''
+	</section>"
 
 	<section>
 		<Hideable>
