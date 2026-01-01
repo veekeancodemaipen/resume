@@ -117,6 +117,23 @@
 
 	<section>
 		<Hideable>
+			<h2 class="text-2xl print:text-4xl uppercase text-left">EXTRACURRICULARS</h2>
+			<hr />
+
+			<ul class="text-left list-disc pl-8">
+				{#each interests as interest}
+					<Hideable>
+						<li>
+							{interest}
+						</li>
+					</Hideable>
+				{/each}
+			</ul>
+		</Hideable>
+	</section>
+
+	<section>
+		<Hideable>
 			<h2 class="text-2xl print:text-4xl uppercase text-left">Interests</h2>
 			<hr />
 
