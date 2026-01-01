@@ -11,9 +11,11 @@
   },
   "projects": [
     {
-      "name": "WHATTHEFUCK",
-      "details": 
-      "Hackable chatbot web application",
+      "name": "ChatOS", 
+      "techStack": "React, Node.js", 
+      "details": [
+        "Hackable chatbot web application"
+      ],
       "url": "chat.narze.live",
       "hide": false
     }
@@ -22,7 +24,7 @@
     {
       "position": "Head of External University Affairs",
       "company": "Engineering Student Committee, Chulalongkorn University",
-      "url": "https://www.instagram.com/escchula?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D",
+      "url": "https://www.instagram.com/escchula",
       "years": ["JUL 2025", "APR 2026"],
       "details": [
         "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
@@ -30,7 +32,7 @@
       ]
     }
   ],
-  "Extracurriculars": [
+  "extra": [ 
     {
       "position": "Modchomphu Hackathon 2025, President",
       "details": [
@@ -44,13 +46,13 @@
       ]
     },
     {
-      "position": "Intaniaarchunityrugby, Head of Vender Coordinator",
+      "position": "Intaniaarchunityrugby, Head of Vendor Coordinator",
       "details": [
         "xxxxxxxxx"
       ]
     },
     {
-      "position": "4SAO CSR 11th, Place",
+      "position": "4SAO CSR 11th, Location Team",
       "details": [
         "xxxxxxxxx"
       ]
@@ -92,7 +94,7 @@
       ]
     },
     {
-      "position": "Chula-Uttaradit Camp 16th, Hesd of COOP",
+      "position": "Chula-Uttaradit Camp 16th, Head of COOP",
       "details": [
         "xxxxxxxxx"
       ]
@@ -118,7 +120,7 @@
   ],
   "educations": [
     {
-      "head": "B.Eng. Electical Engineering",
+      "head": "B.Eng. Electrical Engineering",
       "details": "Chulalongkorn University, TH. 2024-Current"
     }
   ],
