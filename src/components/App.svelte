@@ -13,7 +13,7 @@
 		intro = {} as IProfileResp['intro'],
 		projects = [],
 		technologies = [],
-		extra = [],
+		Extracurriculars = [],
 		workExperiences = [],
 		educations = [],
 		interests = [],
@@ -122,10 +122,10 @@
 			<hr />
 
 			<ul class="text-left list-disc pl-8">
-				{#each extra as extra}
+				{#each Extracurriculars as extra}
 					<Hideable>
 						<li>
-							{interest}
+							{extra}
 						</li>
 					</Hideable>
 				{/each}
