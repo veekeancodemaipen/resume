@@ -145,7 +145,7 @@
 			<hr />
 
 			<ul class="text-left list-none pl-0">
-				{#each Extracurricularsa as extra} <Hideable>
+				{#each Extracurriculars as extra} <Hideable>
 						<li class="mb-2"> <div class="font-bold text-lg">
 								{extra.position}
 							</div>
