@@ -145,14 +145,14 @@
 			<hr />
 
 			<ul class="text-left list-none pl-0">
-				{#each extra as item} <Hideable>
+				{#each Extracurricularsa as extra} <Hideable>
 						<li class="mb-2"> <div class="font-bold text-lg">
-								{item.position}
+								{extra.position}
 							</div>
 							
-							{#if item.details && item.details.length > 0}
+							{#if extra.details && extra.details.length > 0}
 								<ul class="list-disc pl-6 font-normal">
-									{#each item.details as detail}
+									{#each extra.details as detail}
 										<li>{detail}</li>
 									{/each}
 								</ul>
