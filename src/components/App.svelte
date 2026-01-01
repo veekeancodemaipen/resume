@@ -122,10 +122,17 @@
 			<hr />
 
 			<ul class="text-left list-disc pl-8">
-				{#each Extracurriculars as extra}
-					<Hideable>
+				{#each Extracurriculars as extra} <Hideable>
 						<li>
-							{extra}
+							<strong>{extra.position}</strong>
+							
+							{#if extra.details && extra.details.length > 0}
+								<ul class="list-[circle] pl-4">
+									{#each extra.details as detail}
+										<li>{detail}</li>
+									{/each}
+								</ul>
+							{/if}
 						</li>
 					</Hideable>
 				{/each}
