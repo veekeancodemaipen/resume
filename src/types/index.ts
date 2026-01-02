@@ -47,6 +47,7 @@ export interface IEducation {
 	details: string;
 }
 export interface IExtra {
+	name: string;
     position: string;
     details: string[];
 }
