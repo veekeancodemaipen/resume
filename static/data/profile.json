@@ -11,12 +11,49 @@
   },
   "projects": [
     {
-      "name": "ChatOS",
-      "techStack": "React, Node.js",
+      "name": "SKR Academic Olympiad",
+      "techStack": "Founder",
       "details": [
-        "Hackable chatbot web application"
+        "Founded an educational community on Instagram to democratize access to Academic Olympiad (POSN) preparation resources for high school students.",
+        "Recruited and led a team of content creators to publish study guides, resulting in increased student awareness and accessibility."
       ],
-      "url": "chat.narze.live",
+      "url": "https://www.instagram.com/skr_academic_olympiad/",
+      "hide": false
+    },
+    {
+      "name": "Onchain Bootcamp (2nd Runner Up)",
+      "techStack": "Business Developer", 
+      "details": [
+        "Conceptualized and pitched a Web3 business model under time constraints, securing the 2nd Runner Up award."
+      ],
+      "url": "",
+      "hide": false
+    },
+    {
+      "name": "CUVI x KAsset Investment Bootcamp",
+      "techStack": "Investment Analyst",
+      "details": [
+        "Analyzed market trends and constructed a strategic investment portfolio, winning the Runner Up award."
+      ],
+      "url": "",
+      "hide": false
+    },
+    {
+      "name": "Young Webmaster Camp 20",
+      "techStack": "Web Marketing",
+      "details": [
+        "Collaborated with developers and designers to craft a digital marketing strategy for a web product."
+      ],
+      "url": "",
+      "hide": false
+    },
+    {
+      "name": "CP CUP 2025",
+      "techStack": "Marketing Strategy",
+      "details": [
+        "Developed a comprehensive marketing plan addressing real-world business challenges."
+      ],
+      "url": "",
       "hide": false
     }
   ],
