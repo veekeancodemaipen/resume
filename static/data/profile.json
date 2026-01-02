@@ -10,16 +10,6 @@
   },
   "projects": [
     {
-      "name": "SKR Academic Olympiad",
-      "techStack": "Founder",
-      "details": [
-        "Founded an educational community on Instagram to democratize access to Academic Olympiad (POSN) preparation resources for high school students.",
-        "Recruited and led a team of content creators to publish study guides, resulting in increased student awareness and accessibility."
-      ],
-      "url": "https://www.instagram.com/skr_academic_olympiad/",
-      "hide": false
-    },
-    {
       "name": "Onchain Bootcamp 2025 (2nd Runner Up)",
       "techStack": "Business Developer", 
       "details": [
@@ -82,6 +72,19 @@
         "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
         "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
       ]
+    },
+    {
+      "position": "Founder",
+      "company": "SKR Academic Olympiad",
+      "url": "https://www.instagram.com/skr_academic_olympiad/", 
+      "years": [
+        "MAY 2023", 
+        "MAY 2024"
+      ],
+      "details": [
+        "Founded and managed an educational community on Instagram to democratize access to Academic Olympiad (POSN) preparation resources.",
+        "Recruited and led a team of content creators to publish study guides, effectively increasing student awareness and accessibility."
+      ]
     }
   ],
   "Extracurriculars": [
@@ -100,7 +103,7 @@
       ]
     },
     {
-      "name": "Intaniaarchunityrugby",
+      "name": "Intania-Arch Unityrugby 2025",
       "position": "Head of Vendor Coordinator",
       "details": [
         "xxxxxxxxx"
@@ -108,7 +111,7 @@
     },
     {
       "name": "4SAO CSR 11th",
-      "position": "Location Team",
+      "position": "Location",
       "details": [
         "xxxxxxxxx"
       ]
