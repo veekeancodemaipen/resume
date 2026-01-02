@@ -24,7 +24,8 @@ export interface IIntro {
 
 export interface IProject {
 	name: string;
-	details: string;
+	details: string[]; 
+	techStack: string;
 	url: string;
 	hide: boolean;
 }
