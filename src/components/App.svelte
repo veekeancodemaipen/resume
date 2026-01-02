@@ -52,14 +52,14 @@
 
 	<section>
 		<Hideable>
-			<h2 class="text-2xl print:text-4xl uppercase text-left">SKILL AND TECHNOLOGIES</h2>
+			<h2 class="text-2xl print:text-4xl uppercase text-left">Education</h2>
 			<hr />
+
 			<ul class="text-left list-disc pl-8">
-				{#each technologies as tech}
+				{#each educations as edu}
 					<Hideable>
 						<li>
-							<span class="w-28 inline-block">{tech.section}</span>
-							<span>{tech.details}</span>
+							<strong>{edu.head}</strong>, {edu.details}
 						</li>
 					</Hideable>
 				{/each}
@@ -69,14 +69,14 @@
 
 	<section>
 		<Hideable>
-			<h2 class="text-2xl print:text-4xl uppercase text-left">Education</h2>
+			<h2 class="text-2xl print:text-4xl uppercase text-left">SKILL AND TECHNOLOGIES</h2>
 			<hr />
-
 			<ul class="text-left list-disc pl-8">
-				{#each educations as edu}
+				{#each technologies as tech}
 					<Hideable>
 						<li>
-							<strong>{edu.head}</strong>, {edu.details}
+							<span class="w-28 inline-block">{tech.section}</span>
+							<span>{tech.details}</span>
 						</li>
 					</Hideable>
 				{/each}
