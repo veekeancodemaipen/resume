@@ -11,8 +11,8 @@
   },
   "projects": [
     {
-      "name": "ChatOS", 
-      "techStack": "React, Node.js", 
+      "name": "ChatOS",
+      "techStack": "React, Node.js",
       "details": [
         "Hackable chatbot web application"
       ],
@@ -25,94 +25,111 @@
       "position": "Head of External University Affairs",
       "company": "Engineering Student Committee, Chulalongkorn University",
       "url": "https://www.instagram.com/escchula",
-      "years": ["JUL 2025", "APR 2026"],
+      "years": [
+        "JUL 2025",
+        "APR 2026"
+      ],
       "details": [
         "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-        "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx" 
+        "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
       ]
     }
   ],
-  "Extracurriculars": [ 
+  "Extracurriculars": [
     {
-      "position": "Modchomphu Hackathon 2025, President",
+      "name": "Modchomphu Hackathon 2025",
+      "position": "President",
       "details": [
         "xxxxxxxxx"
       ]
     },
     {
-      "position": "CUEE Camp 3, Head of Plan",
+      "name": "CUEE Camp 3",
+      "position": "Head of Plan",
       "details": [
         "xxxxxxxxx"
       ]
     },
     {
-      "position": "Intaniaarchunityrugby, Head of Vendor Coordinator",
+      "name": "Intaniaarchunityrugby",
+      "position": "Head of Vendor Coordinator",
       "details": [
         "xxxxxxxxx"
       ]
     },
     {
-      "position": "4SAO CSR 11th, Location Team",
+      "name": "4SAO CSR 11th",
+      "position": "Location Team",
       "details": [
         "xxxxxxxxx"
       ]
     },
     {
-      "position": "Chula-Uttaradit Camp 17th, Head of P'BAAN",
+      "name": "Chula-Uttaradit Camp 17th",
+      "position": "Head of P'BAAN",
       "details": [
         "xxxxxxxxx"
       ]
     },
     {
-      "position": "Vishnu Camp 23rd, Welfare",
+      "name": "Vishnu Camp 23rd",
+      "position": "Welfare",
       "details": [
         "xxxxxxxxx"
       ]
     },
     {
-      "position": "FEcamp18, Supply & Welfare",
+      "name": "FEcamp18",
+      "position": "Supply & Welfare",
       "details": [
         "xxxxxxxxx"
       ]
     },
     {
-      "position": "Fest by FECamp18, Academic",
+      "name": "Fest by FECamp18",
+      "position": "Academic",
       "details": [
         "xxxxxxxxx"
       ]
     },
     {
-      "position": "Chula Rayong 2025, Sponsor",
+      "name": "Chula Rayong 2025",
+      "position": "Sponsor",
       "details": [
         "xxxxxxxxx"
       ]
     },
     {
-      "position": "Songkarn X Pride Festival Chula, Sponsor",
+      "name": "Songkarn X Pride Festival Chula",
+      "position": "Sponsor",
       "details": [
         "xxxxxxxxx"
       ]
     },
     {
-      "position": "Chula-Uttaradit Camp 16th, Head of COOP",
+      "name": "Chula-Uttaradit Camp 16th",
+      "position": "Head of COOP",
       "details": [
         "xxxxxxxxx"
       ]
     },
     {
-      "position": "The 75th CU - TU Traditional Football Match, COOP",
+      "name": "The 75th CU - TU Traditional Football Match",
+      "position": "COOP",
       "details": [
         "xxxxxxxxx"
       ]
     },
     {
-      "position": "Deklek 4 by Rotaract, Staff",
+      "name": "Deklek 4 by Rotaract",
+      "position": "Staff",
       "details": [
         "xxxxxxxxx"
       ]
     },
     {
-      "position": "Larngear Camp 24 and 25, COOP",
+      "name": "Larngear Camp 24 and 25",
+      "position": "COOP",
       "details": [
         "xxxxxxxxx"
       ]
