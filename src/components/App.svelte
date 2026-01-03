@@ -89,7 +89,7 @@
 			<h2 class="text-2xl print:text-4xl uppercase text-left">Competitions & Awards</h2>
 			<hr />
 
-			<ul class="text-left list-disc pl-8">
+			<ul class="text-left list-none pl-0">
 				{#each projects as project}
 					<Hideable hide={project.hide}>
 						<li class="mb-2">
@@ -101,10 +101,10 @@
 								{/if}
 
 								{#if project.url}
-									<a 
-										href={project.url} 
-										target="_blank" 
-										rel="noreferrer" 
+									<a 
+										href={project.url} 
+										target="_blank" 
+										rel="noreferrer" 
 										class="font-normal underline ml-1 text-sm"
 									>
 										({project.url})
@@ -113,7 +113,7 @@
 							</div>
 
 							{#if project.details && Array.isArray(project.details)}
-								<ul class="list-[circle] pl-4 font-normal">
+								<ul class="list-disc pl-6 font-normal">
 									{#each project.details as detail}
 										<li>{detail}</li>
 									{/each}
