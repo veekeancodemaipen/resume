@@ -86,7 +86,7 @@
 
 	<section>
 		<Hideable>
-			<h2 class="text-2xl print:text-4xl uppercase text-left">Projects & Competitions</h2>
+			<h2 class="text-2xl print:text-4xl uppercase text-left">Competitions & Awards</h2>
 			<hr />
 
 			<ul class="text-left list-disc pl-8">
