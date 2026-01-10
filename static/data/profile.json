@@ -13,9 +13,8 @@
       "name": "Onchain Bootcamp 2025 (2nd Runner Up)",
       "techStack": "Business Developer", 
       "details": [
-        "Conceptualized 'Debtdown', a Web3 marketplace addressing Thailand’s 1.2 Trillion THB Non-Performing Loan (NPL) crisis by enabling fractionalized access for retail investors.",
-        "Conducted competitive analysis to identify a 'Pre-NPL' market niche, strategically positioning the platform to minimize legal risks compared to traditional players like BAM and JMT.",
-        "Designed a sustainable revenue model utilizing platform fees and interest margins to ensure commercial viability and long-term operations."
+        "Co-developed Debtdown, a Web3-enabled marketplace concept to improve transparency and enable fractional participation in Thailand’s NPL market of approximately THB 1.2 trillion.",
+        "Defined the Pre-NPL positioning through market research and translated insights into an MVP-ready concept, including user flow for repayment tracking and yield distribution."
       ],
       "url": "",
       "hide": false
@@ -24,9 +23,8 @@
       "name": "CUVI x KAsset Investment Bootcamp 2024 (1st Runner Up)",
       "techStack": "Investment Analyst",
       "details": [
-        "Constructed a strategic 10-year portfolio managing a 10 Million THB fund using a Core-Satellite allocation (70/30) and a 3-phase investment strategy to balance risk and return.",
-        "Analyzed macroeconomic indicators and business cycles to select high-performing assets (e.g., S&P500, REITs, BTC), projecting a net value of 25.78 Million THB (9.94% CAGR).",
-        "Formulated risk mitigation strategies against economic downturns (Recession, Stagflation), delivering a data-driven pitch that secured the 1st Runner Up award."
+        "Collaborated with a team to design a 10-year THB 10M portfolio using a 70/30 Core–Satellite allocation and a three-phase strategy to balance risk and return.",
+        "Analyzed macroeconomic indicators and business cycles to select assets such as the S&P 500, REITs, and BTC, projecting a terminal value of THB 25.78M and a 9.94% CAGR."
       ],
       "url": "",
       "hide": false
@@ -35,16 +33,18 @@
       "name": "Young Webmaster Camp 20",
       "techStack": "Web Marketing",
       "details": [
-        "Collaborated with developers and designers to craft a digital marketing strategy for a web product."
+        "Built an end-to-end customer journey for the online platform, mapping key touchpoints and funnel stages to guide marketing direction and user experience.",
+        "Developed the business model, market sizing, and finance plan, defining target segments, revenue streams, cost structure, and core assumptions to validate feasibility."
       ],
       "url": "",
       "hide": false
     },
     {
-      "name": "CP CUP 2025",
+      "name": "CP CUP 2025 (POC Round)",
       "techStack": "Marketing Strategy",
       "details": [
-        "Developed a comprehensive marketing plan addressing real-world business challenges."
+        "Conducted competitor and customer analysis for CP RTE Chicken, identifying key gaps in online visibility and retention drivers to inform strategic positioning.",
+        "Developed the “Makro Metaverse Experience” (Makro × Roblox), a gamified virtual Makro store featuring quests, mini-games, and redeemable coupons; defined success metrics including 5,000 players in Week 1, +20% brand recall, and ≥15% coupon redemption."
       ],
       "url": "",
       "hide": false
