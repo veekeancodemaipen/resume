@@ -168,7 +168,7 @@
 
 	<section>
 		<Hideable>
-			<h2 class="text-2xl print:text-4xl uppercase text-left">Interests</h2>
+			<h2 class="text-2xl print:text-4xl uppercase text-left">OTHERS</h2>
 			<hr />
 
 			<ul class="text-left list-disc pl-8">
