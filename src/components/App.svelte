@@ -183,10 +183,12 @@
 		</Hideable>
 	</section>
 
-	{#if !resumeUrl.hide}
+	{#if resumeUrl && !resumeUrl.hide}
 		<footer class="print-only">
-			(See <a href={fullVersionLink} target="_blank" rel="noopener">full version</a>
-			or <a href={sourceLink} target="_blank" rel="noopener">source</a>)
+			(See 
+	        <a href={resumeUrl.fullVersion} target="_blank" rel="noopener">full version</a>
+				or 
+	        <a href={resumeUrl.sourceLink} target="_blank" rel="noopener">source</a>)
 		</footer>
 	{/if}
 </main>
