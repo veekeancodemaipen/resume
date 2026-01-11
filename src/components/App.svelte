@@ -97,7 +97,7 @@
 								<span>{project.name}</span>
 								
 								{#if project.techStack}
-									<span> | {project.techStack}</span>
+									<span class="italic"> | {project.techStack}</span>
 								{/if}
 
 								{#if project.url}
