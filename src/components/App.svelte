@@ -49,7 +49,6 @@
 
 <main class="text-center p-4 m-0 md:m-8 xl:mx-auto max-w-screen-xl">
 	<Intro {...intro} />
-
 	<section>
 		<Hideable>
 			<h2 class="text-2xl print:text-4xl uppercase text-left">Education</h2>
