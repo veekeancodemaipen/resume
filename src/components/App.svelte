@@ -183,10 +183,12 @@
 		</Hideable>
 	</section>
 
-	<footer class="print-only">
-		(See <a href={fullVersionLink} target="_blank" rel="noopener">full version</a>
-		or <a href={sourceLink} target="_blank" rel="noopener">source</a>)
-	</footer>
+	{#if !resumeUrl.hide}
+		<footer class="print-only">
+			(See <a href={fullVersionLink} target="_blank" rel="noopener">full version</a>
+			or <a href={sourceLink} target="_blank" rel="noopener">source</a>)
+		</footer>
+{/if}
 </main>
 
 <style lang="postcss">
