@@ -200,10 +200,5 @@
   "interests": [
     "Areas : xxxxxxxxxxxxxxxxxxxxxxxxxxx",
     "Typing : yyyyyyyyyyyyyy"
-  ],
-  "resumeUrl": {
-    "sourceLink": "https://github.com/narze/resume",
-    "fullVersion": "https://resume.narze.live",
-    "hide": true
-  }
+  ]
 }
