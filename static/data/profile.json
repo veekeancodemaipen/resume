@@ -8,6 +8,18 @@
     "location": "Bangkok, Thailand",
     "website": ""
   },
+  
+  "technologies": [
+		{
+			"section": "Skill:",
+			"details": ""
+		},
+		{
+			"section": "Software:",
+			"details": "Excel, Google sheet, Google docs, Microsoft Office, Canva, Python"
+		}
+	], 
+  
   "projects": [
     {
       "name": "Onchain Bootcamp 2025 (2nd Runner Up)",
@@ -50,6 +62,7 @@
       "hide": false
     }
   ],
+  
   "workExperiences": [
     {
       "position": "Head of Inter-University Affairs Department",
@@ -91,6 +104,7 @@
       ]
     }
   ],
+  
   "Extracurriculars": [
     {
       "name": "Modchomphu Hackathon 2025",
